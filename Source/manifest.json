@@ -1,8 +1,12 @@
 {
 	"manifest_version": 2,
-	"name": "Cloud To Butt",
+	"name": "You Guys to You Babies",
 	"version": "1.0",
-	"description": "Replaces the text 'the cloud' with 'my butt'.",
+	"description": "Replaces the text 'you guys' with 'you babies.'",
+	"icons":  { "128": "icon.png" },
+	"browser_action": {
+		"default_icon": "icon.png"
+	},
 	"content_scripts": 
 	[
 		{

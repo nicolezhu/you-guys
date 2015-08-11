@@ -1,37 +1,16 @@
-cloud-to-butt
+you-guys
 =============
 
-Chrome extension that replaces occurrences of 'the cloud' with 'my butt'
+![guise srsly](http://www.reactionface.info/sites/default/files/imagecache/Node_Page/images/1310497097772.gif)
 
-[Direct download of crx file](https://github.com/panicsteve/cloud-to-butt/blob/master/CloudToButt.crx?raw=true)
+Building out [Ryan Gantz](https://twitter.com/sixfoot6)'s [idea](https://twitter.com/sixfoot6/status/630825211370143744) for a Chrome extension that replaces occurrences of 'you guys' with 'you babies'
 
-Note that there are forks of this extension that simply replace 'cloud' with 'butt'.
-In my personal opinion, that approach is too broad and it's less funny as a result, but it is clearly a very
-polarizing issue in the cloud-to-butt user community.  Forks are free to do whatever they like.  But officially, _this_
-extension replaces only the phrase described above. Thank you for your concern.
+Why change 'you guys' with 'you babies'? Check out these articles: 
+- [This is npm's "Guys jar"](http://blog.npmjs.org/post/120475872425/this-is-npms-guys-jar-we-didnt-invent-the) (The npm Blog)
+- [Why I'm finally convinced it's time to stop saying "you guys"](http://www.vox.com/2015/6/11/8761227/you-guys-sexism-language) (Vox.com)
 
-Screenshot Gallery
-------------------
-
-http://www.flickr.com/groups/cloud-to-butt/
-
-Installation
-------------
-
-In Chrome, choose Window > Extensions.  Drag CloudToButt.crx into the page that appears.
-
-Safari Version
---------------
-
-Can be found here: https://github.com/logancollins/cloud-to-butt-safari
-
-Firefox Version
----------------
-
-Can be found here: https://github.com/DaveRandom/cloud-to-butt-mozilla
+"You can think of the push to drop "guys" as political correctness run amok, or you can think of it as making a tiny change that doesn't cost you anything and will keep you from being a jerk to half the population — and help you make the world just a tiny bit more fair." - [Jenee Desmond-Harris](https://twitter.com/jdesmondharris)
 
 
-Opera Version
----------------
-
-Can be found here: https://github.com/DaveRandom/cloud-to-butt-opera
+## Installation
+You can install 'You Guys to You Babies' from the [Chrome Web Store](https://chrome.google.com/webstore/detail/you-guys-to-you-babies/kcedlblodlmlheifgechgmhmdpeaadcc).
